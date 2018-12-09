@@ -21,7 +21,7 @@ python main.py --help
 * ```--result_path```: a path to the explanation result (default: results/result_{method}_{class}.png)
 * ```--model```: a model name from ```torchvision.models```, e.g., 'vgg16' (default: vgg16)
 * ```--method```: a method to generate the explanation e.g., 'limecam, 'gradcam' (required)
-* ```--no-cuda```: disables GPU usage
+* ```--no_cuda```: disables GPU usage
 
 
 ## References
